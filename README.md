@@ -1,9 +1,9 @@
 # hello-world
 
-small test repository
+* small test repository
 
-I was just testing
+* I was just testing
 
-Some more additions
+* Some more additions
 
-and even more
+* and even more
