@@ -1,10 +1,7 @@
 # hello-world
 
 * small test repository
-
-* I was just testing
-
-* Some more additions
-
+* where is it?
+* fixed up the bullet points!
 * and even more
 ### Title added
